@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- CineNow "play" mark, centred in the adaptive-icon safe zone. -->
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <path
+        android:fillColor="#1A0F0D"
+        android:pathData="M45,38.6 L45,69.4 C45,71.4 47.2,72.6 48.9,71.5 L72.4,56.1 C74,55.1 74,52.9 72.4,51.9 L48.9,36.5 C47.2,35.4 45,36.6 45,38.6 Z" />
+</vector>

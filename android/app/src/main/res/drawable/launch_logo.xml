@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Splash mark: coral rounded square with the play glyph (matches the in-app logo). -->
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="88dp"
+    android:height="88dp"
+    android:viewportWidth="88"
+    android:viewportHeight="88">
+    <path
+        android:fillColor="#FF6B5A"
+        android:pathData="M24,0 L64,0 A24,24 0 0 1 88,24 L88,64 A24,24 0 0 1 64,88 L24,88 A24,24 0 0 1 0,64 L0,24 A24,24 0 0 1 24,0 Z" />
+    <path
+        android:fillColor="#1A0F0D"
+        android:pathData="M35,28.6 L35,59.4 C35,61.4 37.2,62.6 38.9,61.5 L62.4,46.1 C64,45.1 64,42.9 62.4,41.9 L38.9,26.5 C37.2,25.4 35,26.6 35,28.6 Z" />
+</vector>

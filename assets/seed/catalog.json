@@ -1,0 +1,1093 @@
+{
+  "config": {
+    "currency": "THB",
+    "bookingFeePerTicket": 10,
+    "maxSeatsPerBooking": 10,
+    "cities": [
+      "Bangkok",
+      "Nonthaburi"
+    ]
+  },
+  "movies": {
+    "dune-part-two": {
+      "title": "Dune: Part Two",
+      "tmdbId": 693134,
+      "genres": [
+        "Sci-Fi",
+        "Adventure",
+        "Drama"
+      ],
+      "rating": 8.6,
+      "durationMin": 166,
+      "ageRating": "13+",
+      "synopsis": "Paul Atreides joins Chani and the Fremen in the deep desert, waging a guerrilla war against the forces that destroyed his family. As visions of a holy war grow sharper, he must choose between the woman he loves and the destiny an entire planet is waiting for.",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/6izwz7rsy95ARzTR3poZ8H6c5pp.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/w1280/eZ239CUp1d6OryZEBPnO2n87gMG.jpg",
+      "cast": [
+        {
+          "name": "Timothée Chalamet",
+          "character": "Paul Atreides",
+          "photoUrl": "https://image.tmdb.org/t/p/w185/dFxpwRpmzpVfP1zjluH68DeQhyj.jpg"
+        },
+        {
+          "name": "Zendaya",
+          "character": "Chani",
+          "photoUrl": "https://image.tmdb.org/t/p/w185/1qup8tSt95HLbcy2c2xrx4iJNxv.jpg"
+        },
+        {
+          "name": "Rebecca Ferguson",
+          "character": "Jessica",
+          "photoUrl": "https://image.tmdb.org/t/p/w185/ra53cM1aNmdH0aFhj8yBqPOj2fb.jpg"
+        },
+        {
+          "name": "Javier Bardem",
+          "character": "Stilgar",
+          "photoUrl": "https://image.tmdb.org/t/p/w185/zfRID0jx8DKBluPGU9xtk9sZWUt.jpg"
+        },
+        {
+          "name": "Josh Brolin",
+          "character": "Gurney Halleck",
+          "photoUrl": "https://image.tmdb.org/t/p/w185/sX2etBbIkxRaCsATyw5ZpOVMPTD.jpg"
+        },
+        {
+          "name": "Austin Butler",
+          "character": "Feyd-Rautha",
+          "photoUrl": "https://image.tmdb.org/t/p/w185/atdAs4pFGjUQ4m2W8kJYly7N6cC.jpg"
+        }
+      ],
+      "status": "now_showing",
+      "featured": true,
+      "accentHex": "#C9803F",
+      "tag": "IMAX Encore"
+    },
+    "inside-out-2": {
+      "title": "Inside Out 2",
+      "tmdbId": 1022789,
+      "genres": [
+        "Animation",
+        "Family",
+        "Comedy"
+      ],
+      "rating": 7.9,
+      "durationMin": 96,
+      "ageRating": "G",
+      "synopsis": "Riley is thirteen, hockey camp is looming, and Headquarters is suddenly under renovation. When Anxiety and a crew of brand-new emotions move in, Joy and the original team must find a way to protect the girl Riley is becoming.",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/vpnVM9B6NMmQpWeZvzLvDESb2QY.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/w1280/p5ozvmdgsmbWe0H8Xk7Rc8SCwAB.jpg",
+      "cast": [
+        {
+          "name": "Amy Poehler",
+          "character": "Joy (voice)",
+          "photoUrl": "https://image.tmdb.org/t/p/w185/rwmvRonpluV6dCPiQissYrchvSD.jpg"
+        },
+        {
+          "name": "Maya Hawke",
+          "character": "Anxiety (voice)",
+          "photoUrl": "https://image.tmdb.org/t/p/w185/7oihORN6wlSC9qKULcpVq7Kqv1l.jpg"
+        },
+        {
+          "name": "Kensington Tallman",
+          "character": "Riley (voice)",
+          "photoUrl": "https://image.tmdb.org/t/p/w185/aS3xM79dmg6bxw9uNqTxRdoze5H.jpg"
+        },
+        {
+          "name": "Liza Lapira",
+          "character": "Disgust (voice)",
+          "photoUrl": "https://image.tmdb.org/t/p/w185/o3jvQAGWtxi5rEycslhC6CY8BWX.jpg"
+        },
+        {
+          "name": "Tony Hale",
+          "character": "Fear (voice)",
+          "photoUrl": "https://image.tmdb.org/t/p/w185/3dEyZgTye0Ec17VGKp0mJ3aU6ty.jpg"
+        },
+        {
+          "name": "Lewis Black",
+          "character": "Anger (voice)",
+          "photoUrl": "https://image.tmdb.org/t/p/w185/f6660RU8eG10Rrk0Fnfih90b0ME.jpg"
+        }
+      ],
+      "status": "now_showing",
+      "featured": false,
+      "accentHex": "#7B5CFF"
+    },
+    "interstellar": {
+      "title": "Interstellar",
+      "tmdbId": 157336,
+      "genres": [
+        "Sci-Fi",
+        "Drama",
+        "Adventure"
+      ],
+      "rating": 8.7,
+      "durationMin": 169,
+      "ageRating": "13+",
+      "synopsis": "With crops failing and dust swallowing the Earth, a former pilot leaves his children behind to lead a mission through a wormhole near Saturn. Every hour on the far side costs years at home, and the clock is racing against the people he loves.",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/yQvGrMoipbRoddT0ZR8tPoR7NfX.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/w1280/8sNiAPPYU14PUepFNeSNGUTiHW.jpg",
+      "cast": [
+        {
+          "name": "Matthew McConaughey",
+          "character": "Cooper",
+          "photoUrl": "https://image.tmdb.org/t/p/w185/lCySuYjhXix3FzQdS4oceDDrXKI.jpg"
+        },
+        {
+          "name": "Anne Hathaway",
+          "character": "Brand",
+          "photoUrl": "https://image.tmdb.org/t/p/w185/nbccV2pMoyLTCeg5DQip24Eq0Jp.jpg"
+        },
+        {
+          "name": "Michael Caine",
+          "character": "Professor Brand",
+          "photoUrl": "https://image.tmdb.org/t/p/w185/bVZRMlpjTAO2pJK6v90buFgVbSW.jpg"
+        },
+        {
+          "name": "Jessica Chastain",
+          "character": "Murph",
+          "photoUrl": "https://image.tmdb.org/t/p/w185/eQKnihReJeB9vQEa5gySzAlKfZt.jpg"
+        },
+        {
+          "name": "Casey Affleck",
+          "character": "Tom",
+          "photoUrl": "https://image.tmdb.org/t/p/w185/304ilSygaCRWykoBWAL67TOw8g9.jpg"
+        },
+        {
+          "name": "Wes Bentley",
+          "character": "Doyle",
+          "photoUrl": "https://image.tmdb.org/t/p/w185/voD93lzFZrr9xfAggwFcPRBi84i.jpg"
+        }
+      ],
+      "status": "now_showing",
+      "featured": true,
+      "accentHex": "#3F7398",
+      "tag": "IMAX Re-release"
+    },
+    "across-the-spider-verse": {
+      "title": "Spider-Man: Across the Spider-Verse",
+      "tmdbId": 569094,
+      "genres": [
+        "Animation",
+        "Action",
+        "Adventure"
+      ],
+      "rating": 8.6,
+      "durationMin": 140,
+      "ageRating": "G",
+      "synopsis": "Miles Morales is pulled across the Multiverse and into a society of Spider-People sworn to protect reality itself. When they clash over how to handle a new threat, Miles has to decide what being a hero really means, and rewrite the rules if he has to.",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/8Vt6mWEReuy4Of61Lnj5Xj704m8.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/w1280/kVd3a9YeLGkoeR50jGEXM6EqseS.jpg",
+      "cast": [
+        {
+          "name": "Shameik Moore",
+          "character": "Miles Morales (voice)",
+          "photoUrl": "https://image.tmdb.org/t/p/w185/ovUKfVOwJ7CadEHaG3NDsfA5xRq.jpg"
+        },
+        {
+          "name": "Hailee Steinfeld",
+          "character": "Gwen Stacy (voice)",
+          "photoUrl": "https://image.tmdb.org/t/p/w185/qDInsG0cxWNxS1X4t59TBZ5S6x5.jpg"
+        },
+        {
+          "name": "Brian Tyree Henry",
+          "character": "Jeff Morales (voice)",
+          "photoUrl": "https://image.tmdb.org/t/p/w185/2MsJh0bpyzwvOUnXOltHp3j85Pb.jpg"
+        },
+        {
+          "name": "Luna Lauren Vélez",
+          "character": "Rio Morales (voice)",
+          "photoUrl": "https://image.tmdb.org/t/p/w185/98BvmTJCZHx0jPv0oNcv04Jkmfb.jpg"
+        },
+        {
+          "name": "Jake Johnson",
+          "character": "Peter B. Parker (voice)",
+          "photoUrl": "https://image.tmdb.org/t/p/w185/3UNfW2qZgRkW81neNVfQvaRC92K.jpg"
+        },
+        {
+          "name": "Oscar Isaac",
+          "character": "Miguel O'Hara (voice)",
+          "photoUrl": "https://image.tmdb.org/t/p/w185/dW5U5yrIIPmMjRThR9KT2xH6nTz.jpg"
+        }
+      ],
+      "status": "now_showing",
+      "featured": true,
+      "accentHex": "#E2366A"
+    },
+    "oppenheimer": {
+      "title": "Oppenheimer",
+      "tmdbId": 872585,
+      "genres": [
+        "Drama",
+        "History"
+      ],
+      "rating": 8.3,
+      "durationMin": 180,
+      "ageRating": "15+",
+      "synopsis": "The story of J. Robert Oppenheimer, the brilliant and contradictory physicist who led the race to build the atomic bomb, and the political reckoning that followed once the world understood what he had made.",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/8Gxv8gSFCU0XGDykEGv7zR1n2ua.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/w1280/neeNHeXjMF5fXoCJRsOmkNGC7q.jpg",
+      "cast": [
+        {
+          "name": "Cillian Murphy",
+          "character": "J. Robert Oppenheimer",
+          "photoUrl": "https://image.tmdb.org/t/p/w185/2lKs67r7FI4bPu0AXxMUJZxmUXn.jpg"
+        },
+        {
+          "name": "Emily Blunt",
+          "character": "Kitty Oppenheimer",
+          "photoUrl": "https://image.tmdb.org/t/p/w185/5nCSG5TL1bP1geD8aaBfaLnLLCD.jpg"
+        },
+        {
+          "name": "Matt Damon",
+          "character": "Leslie Groves",
+          "photoUrl": "https://image.tmdb.org/t/p/w185/aCvBXTAR9B1qRjIRzMBYhhbm1fR.jpg"
+        },
+        {
+          "name": "Robert Downey Jr.",
+          "character": "Lewis Strauss",
+          "photoUrl": "https://image.tmdb.org/t/p/w185/5qHNjhtjMD4YWH3UP0rm4tKwxCL.jpg"
+        },
+        {
+          "name": "Florence Pugh",
+          "character": "Jean Tatlock",
+          "photoUrl": "https://image.tmdb.org/t/p/w185/2URrZb95t3kY6pLroKny3Enmabp.jpg"
+        },
+        {
+          "name": "Josh Hartnett",
+          "character": "Ernest Lawrence",
+          "photoUrl": "https://image.tmdb.org/t/p/w185/5eMo8D7h1XrSu6ZN4UXhPcS6YNG.jpg"
+        }
+      ],
+      "status": "now_showing",
+      "featured": false,
+      "accentHex": "#D9822B"
+    },
+    "your-name": {
+      "title": "Your Name.",
+      "tmdbId": 372058,
+      "genres": [
+        "Animation",
+        "Romance",
+        "Fantasy"
+      ],
+      "rating": 8.5,
+      "durationMin": 106,
+      "ageRating": "G",
+      "synopsis": "A high-school girl in a quiet mountain town and a boy in central Tokyo begin waking up in each other's bodies. Their messages become a friendship, then something deeper, until a comet in the night sky changes everything.",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/vfJFJPepRKapMd5G2ro7klIRysq.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/w1280/mMtUybQ6hL24FXo0F3Z4j2KG7kZ.jpg",
+      "cast": [
+        {
+          "name": "Ryunosuke Kamiki",
+          "character": "Taki Tachibana (voice)",
+          "photoUrl": "https://image.tmdb.org/t/p/w185/ut7ewXjdgUmgkhJ1EtbOo9tbc7s.jpg"
+        },
+        {
+          "name": "Mone Kamishiraishi",
+          "character": "Mitsuha Miyamizu (voice)",
+          "photoUrl": "https://image.tmdb.org/t/p/w185/cPydoy2sSqFDsbXeBPmzQGPmq0R.jpg"
+        },
+        {
+          "name": "Ryo Narita",
+          "character": "Katsuhiko Teshigawara (voice)",
+          "photoUrl": "https://image.tmdb.org/t/p/w185/oCx1lnZnNnB5PxEBxEC1P2gitEf.jpg"
+        },
+        {
+          "name": "Aoi Yuuki",
+          "character": "Sayaka Natori (voice)",
+          "photoUrl": "https://image.tmdb.org/t/p/w185/a5Mkd66GV1l3c9bZZtnvjUf33T2.jpg"
+        },
+        {
+          "name": "Nobunaga Shimazaki",
+          "character": "Tsukasa Fujii (voice)",
+          "photoUrl": "https://image.tmdb.org/t/p/w185/qke5rZusHsjSlvB0NKlJ5dQF5D.jpg"
+        },
+        {
+          "name": "Kaito Ishikawa",
+          "character": "Shinta Takagi (voice)",
+          "photoUrl": "https://image.tmdb.org/t/p/w185/fzjIkotjUHHs3wgftM9tqdsG8ph.jpg"
+        }
+      ],
+      "status": "now_showing",
+      "featured": true,
+      "accentHex": "#4F7CD9",
+      "tag": "10th Anniversary"
+    },
+    "top-gun-maverick": {
+      "title": "Top Gun: Maverick",
+      "tmdbId": 361743,
+      "genres": [
+        "Action",
+        "Drama"
+      ],
+      "rating": 8.2,
+      "durationMin": 131,
+      "ageRating": "13+",
+      "synopsis": "After thirty years of pushing limits, Pete \"Maverick\" Mitchell returns to train an elite group of young pilots for a near-impossible mission, including the son of his late best friend, who still blames him for the past.",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/n0YuM4f5lvGAP6MAW2kBIzugXnc.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/w1280/AaV1YIdWKnjAIAOe8UUKBFm327v.jpg",
+      "cast": [
+        {
+          "name": "Tom Cruise",
+          "character": "Capt. Pete 'Maverick' Mitchell",
+          "photoUrl": "https://image.tmdb.org/t/p/w185/maf8PhSvDCdEwjEMbYfGpojR5RP.jpg"
+        },
+        {
+          "name": "Miles Teller",
+          "character": "Lt. Bradley 'Rooster' Bradshaw",
+          "photoUrl": "https://image.tmdb.org/t/p/w185/kDf3sW3USjEBDQ3Ua7lbwOfwty6.jpg"
+        },
+        {
+          "name": "Jennifer Connelly",
+          "character": "Penny Benjamin",
+          "photoUrl": "https://image.tmdb.org/t/p/w185/wdmcJagSRJ65AuJ4IUCzuHAdvgy.jpg"
+        },
+        {
+          "name": "Bashir Salahuddin",
+          "character": "Wo-1. Bernie 'Hondo' Coleman",
+          "photoUrl": "https://image.tmdb.org/t/p/w185/ZL5MRzjd6kWkvQXqh5mgPY1CKP.jpg"
+        },
+        {
+          "name": "Jon Hamm",
+          "character": "Adm. Beau 'Cyclone' Simpson",
+          "photoUrl": "https://image.tmdb.org/t/p/w185/mrXE5fZbEDPc7BEE5G21J6qrwzi.jpg"
+        },
+        {
+          "name": "Charles Parnell",
+          "character": "Adm. Solomon 'Warlock' Bates",
+          "photoUrl": "https://image.tmdb.org/t/p/w185/wLywO5xtR97YKtkYb57hXEFpL7j.jpg"
+        }
+      ],
+      "status": "now_showing",
+      "featured": false,
+      "accentHex": "#B5852F"
+    },
+    "everything-everywhere": {
+      "title": "Everything Everywhere All at Once",
+      "tmdbId": 545611,
+      "genres": [
+        "Action",
+        "Comedy",
+        "Sci-Fi"
+      ],
+      "rating": 7.8,
+      "durationMin": 139,
+      "ageRating": "15+",
+      "synopsis": "An exhausted laundromat owner in the middle of a tax audit discovers she can tap into the lives of her parallel selves. To save the multiverse, she will need every version of herself, and a new kind of kindness.",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/u68AjlvlutfEIcpmbYpKcdi09ut.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/w1280/fIwiFha3WPu5nHkBeMQ4GzEk0Hv.jpg",
+      "cast": [
+        {
+          "name": "Michelle Yeoh",
+          "character": "Evelyn Wang",
+          "photoUrl": "https://image.tmdb.org/t/p/w185/i6fHvGt7Rb8oVyjjdQVV6vEHB94.jpg"
+        },
+        {
+          "name": "Stephanie Hsu",
+          "character": "Joy Wang / Jobu Tupaki",
+          "photoUrl": "https://image.tmdb.org/t/p/w185/8gb3lfIHKQAGOQyeC4ynQPsCiHr.jpg"
+        },
+        {
+          "name": "Ke Huy Quan",
+          "character": "Waymond Wang",
+          "photoUrl": "https://image.tmdb.org/t/p/w185/iestHyn7PLuVowj5Jaa1SGPboQ4.jpg"
+        },
+        {
+          "name": "James Hong",
+          "character": "Gong Gong",
+          "photoUrl": "https://image.tmdb.org/t/p/w185/v3lfw5aHOy0paOCx6WHiSnwzbH0.jpg"
+        },
+        {
+          "name": "Jamie Lee Curtis",
+          "character": "Deirdre Beaubeirdre",
+          "photoUrl": "https://image.tmdb.org/t/p/w185/eWKubKAAssRzmFwCZKh1mdYqGCH.jpg"
+        },
+        {
+          "name": "Tallie Medel",
+          "character": "Becky Sregor",
+          "photoUrl": "https://image.tmdb.org/t/p/w185/uPpO4A56hRcJZRZYXrUxNdBZxUc.jpg"
+        }
+      ],
+      "status": "now_showing",
+      "featured": false,
+      "accentHex": "#8F5BD1"
+    },
+    "avengers-doomsday": {
+      "title": "Avengers: Doomsday",
+      "tmdbId": 1003596,
+      "genres": [
+        "Action",
+        "Sci-Fi",
+        "Adventure"
+      ],
+      "ageRating": "TBC",
+      "synopsis": "Earth's mightiest heroes reunite against a new sovereign of the Multiverse: Victor von Doom. Old allies, new faces and the Fantastic Four must stand together when an entire reality is on the line.",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/jzPwsojjFStf5lR5Nm07w2hH56G.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/w1280/s4v0UX1anfXm0UvloLsTTJ4v222.jpg",
+      "cast": [
+        {
+          "name": "Robert Downey Jr.",
+          "character": "Victor von Doom / Doctor Doom",
+          "photoUrl": "https://image.tmdb.org/t/p/w185/5qHNjhtjMD4YWH3UP0rm4tKwxCL.jpg"
+        },
+        {
+          "name": "Chris Evans",
+          "character": "Steve Rogers",
+          "photoUrl": "https://image.tmdb.org/t/p/w185/3bOGNsHlrswhyW79uvIHH1V43JI.jpg"
+        },
+        {
+          "name": "Chris Hemsworth",
+          "character": "Thor",
+          "photoUrl": "https://image.tmdb.org/t/p/w185/piQGdoIQOF3C1EI5cbYZLAW1gfj.jpg"
+        },
+        {
+          "name": "Pedro Pascal",
+          "character": "Reed Richards / Mister Fantastic",
+          "photoUrl": "https://image.tmdb.org/t/p/w185/oKcMbVn0NJTNzQt0ClKKvVXkm60.jpg"
+        },
+        {
+          "name": "Paul Rudd",
+          "character": "Scott Lang / Ant-Man",
+          "photoUrl": "https://image.tmdb.org/t/p/w185/6jtwNOLKy0LdsRAKwZqgYMAfd5n.jpg"
+        },
+        {
+          "name": "Anthony Mackie",
+          "character": "Sam Wilson / Captain America",
+          "photoUrl": "https://image.tmdb.org/t/p/w185/vecvTm7SimizluJkyIwBxeLbvRm.jpg"
+        }
+      ],
+      "status": "coming_soon",
+      "releaseDate": "2026-12-17",
+      "featured": false,
+      "accentHex": "#5B4AA8",
+      "tag": "Pre-sales soon"
+    },
+    "dune-part-three": {
+      "title": "Dune: Part Three",
+      "tmdbId": 1170608,
+      "genres": [
+        "Sci-Fi",
+        "Adventure"
+      ],
+      "ageRating": "TBC",
+      "synopsis": "Years after his rise to power, Emperor Paul Atreides faces conspiracies inside his own court as the holy war fought in his name spreads across the stars. The final chapter of Denis Villeneuve's Dune saga.",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/d43fvHQsIMa4kpyhKXw0haEJIvI.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/w1280/i5E9H7Ik0u61ylDDTbmUpTL3Yw.jpg",
+      "cast": [
+        {
+          "name": "Timothée Chalamet",
+          "character": "Paul Atreides",
+          "photoUrl": "https://image.tmdb.org/t/p/w185/dFxpwRpmzpVfP1zjluH68DeQhyj.jpg"
+        },
+        {
+          "name": "Zendaya",
+          "character": "Chani",
+          "photoUrl": "https://image.tmdb.org/t/p/w185/1qup8tSt95HLbcy2c2xrx4iJNxv.jpg"
+        },
+        {
+          "name": "Jason Momoa",
+          "character": "Hayt",
+          "photoUrl": "https://image.tmdb.org/t/p/w185/3troAR6QbSb6nUFMDu61YCCWLKa.jpg"
+        },
+        {
+          "name": "Florence Pugh",
+          "character": "Princess Irulan",
+          "photoUrl": "https://image.tmdb.org/t/p/w185/2URrZb95t3kY6pLroKny3Enmabp.jpg"
+        },
+        {
+          "name": "Rebecca Ferguson",
+          "character": "Lady Jessica",
+          "photoUrl": "https://image.tmdb.org/t/p/w185/ra53cM1aNmdH0aFhj8yBqPOj2fb.jpg"
+        },
+        {
+          "name": "Isaach de Bankolé",
+          "character": "Farok",
+          "photoUrl": "https://image.tmdb.org/t/p/w185/aGjABQBgTA3tduuh54hzWx0aQ44.jpg"
+        }
+      ],
+      "status": "coming_soon",
+      "releaseDate": "2026-12-17",
+      "featured": false,
+      "accentHex": "#A0522D"
+    },
+    "beyond-the-spider-verse": {
+      "title": "Spider-Man: Beyond the Spider-Verse",
+      "tmdbId": 911916,
+      "genres": [
+        "Animation",
+        "Action"
+      ],
+      "ageRating": "TBC",
+      "synopsis": "Miles Morales is trapped in the wrong universe, face to face with a version of himself he never imagined. The concluding chapter of the Spider-Verse trilogy.",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/9KAe39xqyZnv9J4W3DRGdQqX82h.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/w1280/fUcT8bcJD3SZsy84Z9QRP6kOS7v.jpg",
+      "cast": [
+        {
+          "name": "Shameik Moore",
+          "character": "Miles Morales (voice)",
+          "photoUrl": "https://image.tmdb.org/t/p/w185/ovUKfVOwJ7CadEHaG3NDsfA5xRq.jpg"
+        },
+        {
+          "name": "Hailee Steinfeld",
+          "character": "Gwen Stacy (voice)",
+          "photoUrl": "https://image.tmdb.org/t/p/w185/qDInsG0cxWNxS1X4t59TBZ5S6x5.jpg"
+        },
+        {
+          "name": "Oscar Isaac",
+          "character": "Miguel O'Hara (voice)",
+          "photoUrl": "https://image.tmdb.org/t/p/w185/dW5U5yrIIPmMjRThR9KT2xH6nTz.jpg"
+        },
+        {
+          "name": "Jason Schwartzman",
+          "character": "Spot (voice)",
+          "photoUrl": "https://image.tmdb.org/t/p/w185/gCjMdmW1DiPAClHVl4zHEIffIsE.jpg"
+        },
+        {
+          "name": "Jake Johnson",
+          "character": "Peter B. Parker (voice)",
+          "photoUrl": "https://image.tmdb.org/t/p/w185/3UNfW2qZgRkW81neNVfQvaRC92K.jpg"
+        },
+        {
+          "name": "Issa Rae",
+          "character": "Jessica Drew (voice)",
+          "photoUrl": "https://image.tmdb.org/t/p/w185/uFjimuDgBv8kckApr19t8DykxPH.jpg"
+        }
+      ],
+      "status": "coming_soon",
+      "releaseDate": "2027-06-24",
+      "featured": false,
+      "accentHex": "#D7263D"
+    }
+  },
+  "cinemas": {
+    "cn-siam": {
+      "name": "CineNow Siam Square",
+      "city": "Bangkok",
+      "area": "Pathum Wan",
+      "address": "Rama I Rd, Pathum Wan, Bangkok 10330",
+      "formats": [
+        "IMAX",
+        "4DX",
+        "2D"
+      ],
+      "halls": {
+        "h1": {
+          "name": "Hall 1",
+          "layoutId": "imax",
+          "format": "IMAX"
+        },
+        "h2": {
+          "name": "Hall 2",
+          "layoutId": "classic",
+          "format": "2D"
+        },
+        "h3": {
+          "name": "4DX Hall",
+          "layoutId": "studio",
+          "format": "4DX"
+        }
+      }
+    },
+    "cn-sukhumvit": {
+      "name": "CineNow Sukhumvit 24",
+      "city": "Bangkok",
+      "area": "Khlong Toei",
+      "address": "Sukhumvit Rd, Khlong Toei, Bangkok 10110",
+      "formats": [
+        "Dolby Atmos",
+        "2D"
+      ],
+      "halls": {
+        "h1": {
+          "name": "Hall 1",
+          "layoutId": "classic",
+          "format": "Dolby Atmos"
+        },
+        "h2": {
+          "name": "Hall 2",
+          "layoutId": "studio",
+          "format": "2D"
+        }
+      }
+    },
+    "cn-bangsue": {
+      "name": "CineNow Bang Sue Junction",
+      "city": "Bangkok",
+      "area": "Bang Sue",
+      "address": "Pracharat Sai 2 Rd, Bang Sue, Bangkok 10800",
+      "formats": [
+        "IMAX",
+        "2D"
+      ],
+      "halls": {
+        "h1": {
+          "name": "Hall 1",
+          "layoutId": "imax",
+          "format": "IMAX"
+        },
+        "h2": {
+          "name": "Hall 2",
+          "layoutId": "classic",
+          "format": "2D"
+        }
+      }
+    },
+    "cn-rattanathibet": {
+      "name": "CineNow Rattanathibet",
+      "city": "Nonthaburi",
+      "area": "Mueang Nonthaburi",
+      "address": "Rattanathibet Rd, Mueang Nonthaburi 11000",
+      "formats": [
+        "2D"
+      ],
+      "halls": {
+        "h1": {
+          "name": "Hall 1",
+          "layoutId": "classic",
+          "format": "2D"
+        },
+        "h2": {
+          "name": "Hall 2",
+          "layoutId": "studio",
+          "format": "2D"
+        }
+      }
+    }
+  },
+  "layouts": {
+    "classic": {
+      "name": "Classic hall",
+      "rows": [
+        {
+          "label": "A",
+          "seats": 14,
+          "type": "standard",
+          "aisleAfter": [
+            3,
+            11
+          ]
+        },
+        {
+          "label": "B",
+          "seats": 14,
+          "type": "standard",
+          "aisleAfter": [
+            3,
+            11
+          ]
+        },
+        {
+          "label": "C",
+          "seats": 14,
+          "type": "standard",
+          "aisleAfter": [
+            3,
+            11
+          ]
+        },
+        {
+          "label": "D",
+          "seats": 14,
+          "type": "standard",
+          "aisleAfter": [
+            3,
+            11
+          ]
+        },
+        {
+          "label": "E",
+          "seats": 14,
+          "type": "standard",
+          "aisleAfter": [
+            3,
+            11
+          ]
+        },
+        {
+          "label": "F",
+          "seats": 14,
+          "type": "standard",
+          "aisleAfter": [
+            3,
+            11
+          ]
+        },
+        {
+          "label": "G",
+          "seats": 14,
+          "type": "standard",
+          "aisleAfter": [
+            3,
+            11
+          ]
+        },
+        {
+          "label": "H",
+          "seats": 14,
+          "type": "standard",
+          "aisleAfter": [
+            3,
+            11
+          ]
+        },
+        {
+          "label": "J",
+          "seats": 10,
+          "type": "deluxe",
+          "aisleAfter": [
+            5
+          ]
+        },
+        {
+          "label": "K",
+          "seats": 10,
+          "type": "deluxe",
+          "aisleAfter": [
+            5
+          ]
+        }
+      ]
+    },
+    "imax": {
+      "name": "IMAX hall",
+      "rows": [
+        {
+          "label": "A",
+          "seats": 16,
+          "type": "standard",
+          "aisleAfter": [
+            4,
+            12
+          ]
+        },
+        {
+          "label": "B",
+          "seats": 16,
+          "type": "standard",
+          "aisleAfter": [
+            4,
+            12
+          ]
+        },
+        {
+          "label": "C",
+          "seats": 16,
+          "type": "standard",
+          "aisleAfter": [
+            4,
+            12
+          ]
+        },
+        {
+          "label": "D",
+          "seats": 16,
+          "type": "standard",
+          "aisleAfter": [
+            4,
+            12
+          ]
+        },
+        {
+          "label": "E",
+          "seats": 16,
+          "type": "standard",
+          "aisleAfter": [
+            4,
+            12
+          ]
+        },
+        {
+          "label": "F",
+          "seats": 16,
+          "type": "standard",
+          "aisleAfter": [
+            4,
+            12
+          ]
+        },
+        {
+          "label": "G",
+          "seats": 16,
+          "type": "standard",
+          "aisleAfter": [
+            4,
+            12
+          ]
+        },
+        {
+          "label": "H",
+          "seats": 16,
+          "type": "standard",
+          "aisleAfter": [
+            4,
+            12
+          ]
+        },
+        {
+          "label": "J",
+          "seats": 16,
+          "type": "standard",
+          "aisleAfter": [
+            4,
+            12
+          ]
+        },
+        {
+          "label": "K",
+          "seats": 12,
+          "type": "deluxe",
+          "aisleAfter": [
+            6
+          ]
+        },
+        {
+          "label": "L",
+          "seats": 12,
+          "type": "deluxe",
+          "aisleAfter": [
+            6
+          ]
+        }
+      ]
+    },
+    "studio": {
+      "name": "Studio hall",
+      "rows": [
+        {
+          "label": "A",
+          "seats": 10,
+          "type": "standard",
+          "aisleAfter": [
+            5
+          ]
+        },
+        {
+          "label": "B",
+          "seats": 10,
+          "type": "standard",
+          "aisleAfter": [
+            5
+          ]
+        },
+        {
+          "label": "C",
+          "seats": 10,
+          "type": "standard",
+          "aisleAfter": [
+            5
+          ]
+        },
+        {
+          "label": "D",
+          "seats": 10,
+          "type": "standard",
+          "aisleAfter": [
+            5
+          ]
+        },
+        {
+          "label": "E",
+          "seats": 10,
+          "type": "standard",
+          "aisleAfter": [
+            5
+          ]
+        },
+        {
+          "label": "F",
+          "seats": 10,
+          "type": "standard",
+          "aisleAfter": [
+            5
+          ]
+        },
+        {
+          "label": "G",
+          "seats": 8,
+          "type": "deluxe",
+          "aisleAfter": [
+            4
+          ]
+        }
+      ]
+    }
+  },
+  "programmes": {
+    "cn-siam": [
+      {
+        "movieId": "dune-part-two",
+        "hallId": "h1",
+        "times": [
+          "11:00",
+          "14:40",
+          "18:20",
+          "22:00"
+        ]
+      },
+      {
+        "movieId": "interstellar",
+        "hallId": "h1",
+        "times": [
+          "08:30"
+        ]
+      },
+      {
+        "movieId": "across-the-spider-verse",
+        "hallId": "h3",
+        "times": [
+          "12:15",
+          "15:00",
+          "17:45",
+          "20:30"
+        ]
+      },
+      {
+        "movieId": "inside-out-2",
+        "hallId": "h2",
+        "times": [
+          "10:30",
+          "12:40"
+        ]
+      },
+      {
+        "movieId": "oppenheimer",
+        "hallId": "h2",
+        "times": [
+          "15:10",
+          "19:00"
+        ]
+      },
+      {
+        "movieId": "everything-everywhere",
+        "hallId": "h2",
+        "times": [
+          "22:40"
+        ]
+      }
+    ],
+    "cn-sukhumvit": [
+      {
+        "movieId": "your-name",
+        "hallId": "h2",
+        "times": [
+          "11:20",
+          "13:40",
+          "16:00",
+          "18:20",
+          "20:40"
+        ]
+      },
+      {
+        "movieId": "oppenheimer",
+        "hallId": "h1",
+        "times": [
+          "10:45",
+          "14:30",
+          "18:15"
+        ]
+      },
+      {
+        "movieId": "top-gun-maverick",
+        "hallId": "h1",
+        "times": [
+          "21:45"
+        ]
+      },
+      {
+        "movieId": "everything-everywhere",
+        "hallId": "h2",
+        "times": [
+          "22:50"
+        ]
+      }
+    ],
+    "cn-bangsue": [
+      {
+        "movieId": "interstellar",
+        "hallId": "h1",
+        "times": [
+          "10:15",
+          "13:50",
+          "17:25",
+          "21:00"
+        ]
+      },
+      {
+        "movieId": "dune-part-two",
+        "hallId": "h2",
+        "times": [
+          "11:10",
+          "14:45"
+        ]
+      },
+      {
+        "movieId": "top-gun-maverick",
+        "hallId": "h2",
+        "times": [
+          "18:30",
+          "21:10"
+        ]
+      },
+      {
+        "movieId": "inside-out-2",
+        "hallId": "h2",
+        "times": [
+          "09:20"
+        ]
+      }
+    ],
+    "cn-rattanathibet": [
+      {
+        "movieId": "inside-out-2",
+        "hallId": "h2",
+        "times": [
+          "10:00",
+          "12:10",
+          "14:20",
+          "16:30"
+        ]
+      },
+      {
+        "movieId": "across-the-spider-verse",
+        "hallId": "h1",
+        "times": [
+          "11:30",
+          "14:30",
+          "17:30",
+          "20:30"
+        ]
+      },
+      {
+        "movieId": "your-name",
+        "hallId": "h2",
+        "times": [
+          "18:40",
+          "21:00"
+        ]
+      },
+      {
+        "movieId": "top-gun-maverick",
+        "hallId": "h1",
+        "times": [
+          "23:10"
+        ]
+      }
+    ]
+  },
+  "pricing": {
+    "2D": {
+      "standard": 220,
+      "deluxe": 320
+    },
+    "Dolby Atmos": {
+      "standard": 280,
+      "deluxe": 380
+    },
+    "IMAX": {
+      "standard": 380,
+      "deluxe": 480
+    },
+    "4DX": {
+      "standard": 450,
+      "deluxe": 550
+    }
+  }
+}

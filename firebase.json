@@ -1,0 +1,35 @@
+{
+  "database": {
+    "rules": "firebase/database.rules.json"
+  },
+  "auth": {
+    "providers": {
+      "emailPassword": true
+    }
+  },
+  "emulators": {
+    "auth": { "host": "0.0.0.0", "port": 9099 },
+    "database": { "host": "0.0.0.0", "port": 9000 },
+    "ui": { "enabled": true, "port": 4000 },
+    "singleProjectMode": true
+  },
+  "flutter": {
+    "platforms": {
+      "android": {
+        "default": {
+          "projectId": "cinenow-kmutnb-2026",
+          "appId": "1:351781135088:android:3f8e0e4e37950b907f9835",
+          "fileOutput": "android/app/google-services.json"
+        }
+      },
+      "dart": {
+        "lib/firebase_options.dart": {
+          "projectId": "cinenow-kmutnb-2026",
+          "configurations": {
+            "android": "1:351781135088:android:3f8e0e4e37950b907f9835"
+          }
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "name": "cinenow-rules-test",
+  "private": true,
+  "type": "module",
+  "description": "Security-rule tests for firebase/database.rules.json (run against the Firebase Emulator Suite).",
+  "scripts": {
+    "test": "node --test rules.test.mjs"
+  },
+  "devDependencies": {
+    "@firebase/rules-unit-testing": "^4.0.1",
+    "firebase": "^11.10.0"
+  }
+}

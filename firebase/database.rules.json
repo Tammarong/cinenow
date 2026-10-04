@@ -1,0 +1,59 @@
+{
+  "rules": {
+    ".read": false,
+    ".write": false,
+
+    "config": { ".read": true, ".write": false },
+    "movies": { ".read": true, ".write": false },
+    "cinemas": { ".read": true, ".write": false },
+    "layouts": { ".read": true, ".write": false },
+    "showtimes": {
+      ".read": true,
+      ".write": false,
+      "$movieId": { ".indexOn": ["date"] }
+    },
+
+    "occupiedSeats": {
+      "$showtimeId": {
+        ".read": true,
+        "$seatId": {
+          ".write": "auth != null && !data.exists() && newData.exists() && newData.child('uid').val() === auth.uid && newData.child('reservationId').isString() && newData.parent().parent().parent().child('reservations').child(auth.uid).child(newData.child('reservationId').val()).child('showtimeId').val() === $showtimeId && newData.parent().parent().parent().child('reservations').child(auth.uid).child(newData.child('reservationId').val()).child('seats').child($seatId).val() === true",
+          ".validate": "$seatId.matches(/^[A-L][0-9]{1,2}$/) && newData.hasChildren(['uid', 'reservationId', 'bookedAt'])",
+          "uid": { ".validate": "newData.isString()" },
+          "reservationId": { ".validate": "newData.isString()" },
+          "bookedAt": { ".validate": "newData.val() === now" },
+          "$other": { ".validate": false }
+        }
+      }
+    },
+
+    "reservations": {
+      "$uid": {
+        ".read": "auth != null && auth.uid === $uid",
+        ".indexOn": ["startsAt"],
+        "$reservationId": {
+          ".write": "auth != null && auth.uid === $uid && !data.exists() && newData.exists()",
+          ".validate": "newData.hasChildren(['ref', 'movieId', 'movieTitle', 'cinemaId', 'cinemaName', 'showtimeId', 'startsAt', 'seats', 'total', 'createdAt'])",
+          "ref": { ".validate": "newData.isString() && newData.val().length <= 16" },
+          "seats": { ".validate": "newData.hasChildren()" },
+          "total": { ".validate": "newData.isNumber() && newData.val() >= 0" },
+          "startsAt": { ".validate": "newData.isNumber()" },
+          "createdAt": { ".validate": "newData.val() === now" }
+        }
+      }
+    },
+
+    "users": {
+      "$uid": {
+        ".read": "auth != null && auth.uid === $uid",
+        ".write": "auth != null && auth.uid === $uid",
+        ".validate": "newData.hasChildren(['displayName', 'email', 'createdAt'])",
+        "displayName": { ".validate": "newData.isString() && newData.val().length > 0 && newData.val().length <= 60" },
+        "email": { ".validate": "newData.isString() && newData.val().length <= 254" },
+        "city": { ".validate": "newData.isString() && newData.val().length <= 40" },
+        "createdAt": { ".validate": "newData.isNumber()" },
+        "$other": { ".validate": false }
+      }
+    }
+  }
+}

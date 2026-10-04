@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "351781135088",
+    "firebase_url": "https://cinenow-kmutnb-2026-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "cinenow-kmutnb-2026",
+    "storage_bucket": "cinenow-kmutnb-2026.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:351781135088:android:3f8e0e4e37950b907f9835",
+        "android_client_info": {
+          "package_name": "com.cinenow.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDjyiyReh_RxU3AdyTHGdI_xz8DxaZy-Ws"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

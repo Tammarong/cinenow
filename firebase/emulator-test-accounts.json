@@ -1,0 +1,7 @@
+{
+  "_note": "Throwaway accounts for the LOCAL Firebase Auth emulator only (firebase emulators:start). They do not exist on the live cinenow-kmutnb-2026 project and are wiped whenever the emulator restarts.",
+  "accounts": [
+    { "name": "Mali Test", "email": "mali.test@cinenow.test", "password": "Popcorn2026" },
+    { "name": "Second Viewer", "email": "viewer2@cinenow.test", "password": "Popcorn2027" }
+  ]
+}

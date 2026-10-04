@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Charcoal splash with the CineNow mark — no white flash before Flutter draws. -->
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:drawable="@color/cinenow_background" />
+    <item
+        android:width="88dp"
+        android:height="88dp"
+        android:gravity="center"
+        android:drawable="@drawable/launch_logo" />
+</layer-list>
