@@ -49,3 +49,4 @@ app.*.map.json
 /firebase/database.refresh.json
 /test_screens/failures/
 *-debug.log
+/dist/
